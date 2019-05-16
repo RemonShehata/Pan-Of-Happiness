@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFB74D"
+        android:gravity="center"
+        android:text=" Pan of happiness"
+        android:textColor="#E64A19"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFB74D"
+        android:gravity="center"
+        android:text="resturant &amp; Cafe"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_weight="9"
+        android:scaleType="centerCrop"
+        android:src="@drawable/resturant1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FF9800"
+        android:paddingLeft="8dp"
+        android:text="Find us at 2 Dolce Street"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FF9800"
+        android:paddingLeft="8dp"
+        android:text="Phone : 0111 773 8165"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FF9800"
+        android:paddingLeft="8dp"
+        android:text="Working Hours 3:00 PM - 12:00 AM"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+
+</LinearLayout>
