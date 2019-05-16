@@ -13,7 +13,7 @@
         android:layout_weight="1"
         android:background="#FFB74D"
         android:gravity="center"
-        android:text=" Pan of happiness"
+        android:text="@string/app_name"
         android:textColor="#E64A19"
         android:textSize="24sp" />
 
@@ -23,7 +23,7 @@
         android:layout_weight="1"
         android:background="#FFB74D"
         android:gravity="center"
-        android:text="resturant &amp; Cafe"
+        android:text="@string/resturant_and_cafe"
         android:textSize="16sp" />
 
     <ImageView
@@ -41,7 +41,7 @@
         android:layout_weight="1"
         android:background="#FF9800"
         android:paddingLeft="8dp"
-        android:text="Find us at 2 Dolce Street"
+        android:text="@string/find_us_at"
         android:textSize="20sp"
         android:textColor="#000000"/>
 
@@ -51,7 +51,7 @@
         android:layout_weight="1"
         android:background="#FF9800"
         android:paddingLeft="8dp"
-        android:text="Phone : 0111 773 8165"
+        android:text="@string/phone_number"
         android:textSize="20sp"
         android:textColor="#000000"/>
 
@@ -61,7 +61,7 @@
         android:layout_weight="1"
         android:background="#FF9800"
         android:paddingLeft="8dp"
-        android:text="Working Hours 3:00 PM - 12:00 AM"
+        android:text="@string/working_hours"
         android:textSize="20sp"
         android:textColor="#000000"/>
 

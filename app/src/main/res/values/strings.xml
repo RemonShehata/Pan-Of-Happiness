@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pan Of Happiness</string>
+    <string name="resturant_and_cafe">resturant &amp; Cafe</string>
+    <string name="find_us_at">Find us at 2 Dolce Street</string>
+    <string name="phone_number">Phone : 0111 773 8165</string>
+    <string name="working_hours">Working Hours 3:00 PM - 12:00 AM</string>
 </resources>
